@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **pianist, software engineer, score composer, anime lover, game developer and .... all packed in one**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
