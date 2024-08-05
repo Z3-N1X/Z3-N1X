@@ -1,7 +1,7 @@
 <h1 align="center">Look whos here --> {Z3N, Z3N1X}</h1>
 <h3 align="center">Senior from Iran</h3>
 
-- 🔭 I’m currently working on **infinity**
+- 🔭 I’m currently working on **VoziCode**
 
 - 💬 Ask me about **Python**
 
